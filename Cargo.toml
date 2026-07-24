@@ -1,0 +1,9 @@
+[package]
+name = "pet_project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tao = "0.28"
+pixels = "0.15"   # Atualizado para bater com o rwh 0.6 do tao!
+image = "0.25"
